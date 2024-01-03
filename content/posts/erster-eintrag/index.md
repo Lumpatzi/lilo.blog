@@ -7,13 +7,13 @@ tags = ["Deutsch", "Reportage"]
 image = "bildschirmfoto-2024-01-03-um-17.46.20-3.png"
 description = "Folgender Blogeintrag zeigt Ihnen, wie Ihre Reportage-Seite idealtypisch aussehen sollte. "
 +++
-# Wie muss meine Reportage-Seite aussehen
-
 ### **Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead (Heading 3)**
 
 Hier schreiben Sie die Einleitung (z.B. Schilderung des Ortes). Einleitung.Einleitung.Einleitung. Einleitung.Einleitung. Einleitung.Einleitung.Einleitung.Einleitung.Einleitung. Einleitung.Einleitung. Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.
 
-> ## Erster Untertitel (Heading 2)
+
+
+> ### Erster Untertitel (Heading3)
 
 Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. 
 
