@@ -7,7 +7,7 @@ tags = ["Deutsch", "Reportage"]
 image = "bildschirmfoto-2024-01-03-um-17.46.20-3.png"
 description = "Folgender Blogeintrag zeigt Ihnen, wie Ihre Reportage-Seite idealtypisch aussehen sollte. "
 +++
-{{<Lead. In den nächsten Wochen werden Sie zum Reporter und zu zweit im Rahmen dieses SOL-Projekts (= „Selbst organisiertes Lernen“) eine spannende Reportage zu einer kulturellen Veranstaltung/Institution schreiben. Das Projekt Reportage ermöglicht Ihnen, verschiedene Kompetenzen, die Sie im Deutschunterricht erworben haben, zu erweitern.>}}
+<Lead. In den nächsten Wochen werden Sie zum Reporter und zu zweit im Rahmen dieses SOL-Projekts (= „Selbst organisiertes Lernen“) eine spannende Reportage zu einer kulturellen Veranstaltung/Institution schreiben. Das Projekt Reportage ermöglicht Ihnen, verschiedene Kompetenzen, die Sie im Deutschunterricht erworben haben, zu erweitern.>
 
 
 
