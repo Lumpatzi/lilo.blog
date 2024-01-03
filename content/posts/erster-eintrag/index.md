@@ -4,7 +4,7 @@ date = "2024-01-03"
 draft = false
 pinned = true
 tags = ["Deutsch", "Reportage"]
-image = "bildschirmfoto-2024-01-03-um-17.32.41-4.png"
+image = "bildschirmfoto-2024-01-03-um-17.46.20-3.png"
 description = "Folgender Blogeintrag zeigt Ihnen, wie Ihre Reportage-Seite idealtypisch aussehen sollte. "
 +++
 Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. 
