@@ -31,7 +31,9 @@ Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. 
 
 {{<box>}}
 
-Biografisches zu Arnold Hottinger…kdjföaldhföoad
+Infokasten
+
+Biografisches zu Arnold Hottinger
 
 jöodfjhaöoidhjfpoaihdfpioahdfiahdpifhapidufhapidhfpiauhdfpiahdsfpihadifhaidf hidjfhapisdhfpiauhf haidshfipaudhfpiuah haidhfpiahdfpiuahdfo9. aidhfiauhfdpiuahdfpiuh aiudshfliadhfpiuahdfpiuahdfpiuah
 
