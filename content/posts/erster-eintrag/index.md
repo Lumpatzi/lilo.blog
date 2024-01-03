@@ -13,4 +13,4 @@ Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. 
 
 Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. 
 
-![](bildschirmfoto-2024-01-03-um-17.46.20-3.png "Journalismus-Legende Arnold Hottinger in der Tafilalet-Wüste bei Erfoud  in Marokko (verfügbar unter <www.nzz.ch> Stand 1.2.2016)")
+![Journalismus-Legende Arnold Hottinger in der Tafilalet-Wüste bei Erfoud  in Marokko (verfügbar unter <www.nzz.ch> Stand 1.2.2016)](bildschirmfoto-2024-01-03-um-17.46.20-3.png "Journalismus-Legende Arnold Hottinger in der Tafilalet-Wüste bei Erfoud  in Marokko (verfügbar unter <www.nzz.ch> Stand 1.2.2016)")
