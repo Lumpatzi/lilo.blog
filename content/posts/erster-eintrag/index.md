@@ -9,11 +9,9 @@ description = "Folgender Blogeintrag zeigt Ihnen, wie Ihre Reportage-Seite ideal
 +++
 ### **Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead Lead.Lead.Lead (Heading 3)**
 
-Hier schreiben Sie die Einleitung (z.B. Schilderung des Ortes). Einleitung.Einleitung.Einleitung. Einleitung.Einleitung. Einleitung.Einleitung.Einleitung.Einleitung.Einleitung. Einleitung.Einleitung. Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.
+Hier schreiben Sie die Einleitung (z.B. Schilderung des Ortes). Einleitung.Einleitung.Einleitung. Einleitung.Einleitung. Einleitung.Einleitung.Einleitung.Einleitung.Einleitung. Einleitung.Einleitung. Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung.Einleitung
 
-
-
-> ### Erster Untertitel (Heading3)
+### **Erster Untertitel**
 
 Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. 
 
