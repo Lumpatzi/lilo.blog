@@ -21,7 +21,7 @@ Name der Verfasser*innen
 
 Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. 
 
-> Zitatausriss. ZitatausrissZitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss*.* 
+> „Zitatausriss. ZitatausrissZitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss Zitatausriss. Zitatausriss*.“* 
 >
 > *Name der interviewten Person*
 
