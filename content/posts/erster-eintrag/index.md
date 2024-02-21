@@ -37,7 +37,7 @@ Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. Hier schreiben Sie. 
 
 {{<box>}}
 
-Infokasten
+**Infokasten**
 
 Biografisches zu Arnold Hottinger
 
